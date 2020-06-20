@@ -1,0 +1,246 @@
+Artist Name          Album Title                  Song Title             Position  Duration
+*******************  ***************************  *********************  ********  ********
+2 PAC                GREATEST HITS                2 OF AMERIKAS MOST            2              4:07    
+2 PAC                GREATEST HITS                KEEP YA HEAD UP               1              4:23    
+2 PAC                GREATEST HITS                HAIL MARY                     5              5:12    
+2 PAC                GREATEST HITS                TEMPTATIONS                   3              5:01    
+2 PAC                GREATEST HITS                GOD BLESS THE DEAD            4              4:23    
+2 PAC                GREATEST HITS                ME AGAINST THE WOR            6              4:39    
+2 PAC                GREATEST HITS                HOW DO U WANT IT              7              4:48    
+2 PAC                GREATEST HITS                SO MANY TEARS                 8              3:58    
+2 PAC                GREATEST HITS                UNCONDITIONAL LOVE            9              3:59    
+2 PAC                GREATEST HITS                TRAPPED                       10             4:45    
+2 PAC                GREATEST HITS                LIFE GOES ON                  11             5:02    
+ALICE IN CHAINS      NOTHING SAFE                 GET BORN AGAIN                1              5:26    
+ALICE IN CHAINS      NOTHING SAFE                 WE DIE YOUNG                  2              2:28    
+ALICE IN CHAINS      NOTHING SAFE                 MAN IN THE BOX                3              4:46    
+ALICE IN CHAINS      NOTHING SAFE                 THEM BONES                    4              2:30    
+ALICE IN CHAINS      NOTHING SAFE                 IRON GLAND                    5              0:43    
+ALICE IN CHAINS      NOTHING SAFE                 ANGRY CHAIR                   6              4:46    
+ALICE IN CHAINS      NOTHING SAFE                 DOWN IN A HOLE                7              5:37    
+ALICE IN CHAINS      NOTHING SAFE                 ROOSTER                       8              6:46    
+ALICE IN CHAINS      NOTHING SAFE                 GOT ME WRONG                  9              4:49    
+ALICE IN CHAINS      NOTHING SAFE                 NO EXCUSES                    10             4:14    
+ALICE IN CHAINS      NOTHING SAFE                 I STAY AWAY                   11             4:14    
+ALICE IN CHAINS      NOTHING SAFE                 WHAT THE HELL HAVE I          12             3:57    
+ALICE IN CHAINS      NOTHING SAFE                 GRIND                         13             4:44    
+ALICE IN CHAINS      NOTHING SAFE                 AGAIN                         14             4:04    
+ALICE IN CHAINS      NOTHING SAFE                 WOULD?                        15             3:28    
+BARRY WHITE          ALL TIME GREATEST HITS       IM GONNA LOVE YOU             2              3:59    
+BARRY WHITE          ALL TIME GREATEST HITS       IVE GOT SO MUCH TO            3              5:18    
+BARRY WHITE          ALL TIME GREATEST HITS       NEVER NEVER GONNA             4              4:07    
+BARRY WHITE          ALL TIME GREATEST HITS       HONEY PLEASE CANT             5              3:13    
+BARRY WHITE          ALL TIME GREATEST HITS       CANT GET ENOUGH               6              3:52    
+BARRY WHITE          ALL TIME GREATEST HITS       YOUR THE FIRST LAST           7              3:24    
+BARRY WHITE          ALL TIME GREATEST HITS       WHAT AM I GONNA DO            8              3:34    
+BARRY WHITE          ALL TIME GREATEST HITS       ILL DO FOR YOU ANYT           9              4:10    
+BARRY WHITE          ALL TIME GREATEST HITS       LET THE MUSIC PLAY            10             3:30    
+BERLIN               TOP GUN                      TAKE MY BREATH AWAY           1              4:15    
+BERLIN               TOP GUN                      HEAVEN IN YOUR EYES           2              4:04    
+BERLIN               TOP GUN                      MEMORIES                      3              2:57    
+CARLOS SANTANA       SUPERNATURAL                 (DA LE)YALEO                  1              5:51    
+CARLOS SANTANA       SUPERNATURAL                 LOVE OF MY LIFE               2              5:48    
+CARLOS SANTANA       SUPERNATURAL                 PUT YOUR LIGHTS ON            3              4:47    
+CARLOS SANTANA       SUPERNATURAL                 AFRICA BAMBA                  4              4:40    
+CARLOS SANTANA       SUPERNATURAL                 SMOOTH                        5              4:56    
+CARLOS SANTANA       SUPERNATURAL                 DO YOU LIKE THE WA            6              5:52    
+CARLOS SANTANA       SUPERNATURAL                 MIGRA                         8              5:21    
+CARLOS SANTANA       SUPERNATURAL                 CORAZON ESPINADO              9              4:32    
+CARLOS SANTANA       SUPERNATURAL                 WISHING IT WAS                10             4:59    
+CARLOS SANTANA       SUPERNATURAL                 EL FAROL                      11             4:49    
+CARLOS SANTANA       SUPERNATURAL                 PRIMAVERA                     12             5:17    
+CARLOS SANTANA       SUPERNATURAL                 THE CALLING                   13             7:48    
+CELINE DION          LETS TALK ABOUT LOVE         THE REASON                    1              5:01    
+CELINE DION          LETS TALK ABOUT LOVE         IMMORTALITY                   2              4:11    
+CELINE DION          LETS TALK ABOUT LOVE         TREAT HER LIKE A LAD          3              4:05    
+CELINE DION          LETS TALK ABOUT LOVE         WHY OH WHY                    4              4:50    
+CELINE DION          LETS TALK ABOUT LOVE         LOVE IS ON THE WAY            5              4:25    
+CELINE DION          LETS TALK ABOUT LOVE         TELL HIM                      6              4:51    
+CELINE DION          LETS TALK ABOUT LOVE         WHERE IS THE LOVE             7              4:55    
+CELINE DION          LETS TALK ABOUT LOVE         WHEN I NEED YOU               8              4:12    
+CELINE DION          LETS TALK ABOUT LOVE         MILES TO GO                   9              4:40    
+CELINE DION          LETS TALK ABOUT LOVE         US                            10             5:47    
+CELINE DION          LETS TALK ABOUT LOVE         JUST A LITTLE BIT OF          11             4:06    
+CELINE DION          LETS TALK ABOUT LOVE         MY HEART WILL GO ON           12             4:40    
+CELINE DION          LETS TALK ABOUT LOVE         I HATE YOU THEN I LO          13             4:43    
+CELINE DION          LETS TALK ABOUT LOVE         TO LOVE YOU MORE              14             4:28    
+CELINE DION          LETS TALK ABOUT LOVE         LETS TALK ABOUT LOVE          15             5:12    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    ROUND HERE                    1              5:32    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    OMAHA                         2              3:39    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    MR. JONES                     3              4:32    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    PERFECT BLUE BUILDIN          4              5:00    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    ANNA BEGINS                   5              4:31    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    TIME AND TIME AGAIN           6              5:14    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    RAIN KING                     7              4:15    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    SULLIVAN STREET               8              4:29    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    GHOST TRAIN                   9              4:02    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    RAINING IN BALTIMORE          10             4:41    
+COUNTING CROWS       AUGUST & EVERYTHING AFTER    A MURDER OF ONE               11             5:44    
+ENIGMA               THE SCREEN BEHIND THE MIRROR THE ANTE                      1              2:03    
+ENIGMA               THE SCREEN BEHIND THE MIRROR PUSH THE LIMITS               2              6:27    
+ENIGMA               THE SCREEN BEHIND THE MIRROR GRAVITY OF LOVE               3              4:01    
+ENIGMA               THE SCREEN BEHIND THE MIRROR SMELL THE DESIRE              4              4:55    
+ENIGMA               THE SCREEN BEHIND THE MIRROR MODERN CRUSADERS              5              3:51    
+ENIGMA               THE SCREEN BEHIND THE MIRROR TRACES                        6              4:13    
+ENIGMA               THE SCREEN BEHIND THE MIRROR THE SCREEN BEHIND TH          7              3:59    
+ENIGMA               THE SCREEN BEHIND THE MIRROR ENDLESS QUEST                 8              3:07    
+ENIGMA               THE SCREEN BEHIND THE MIRROR CAMERA OBSERVA                9              1:39    
+ENIGMA               THE SCREEN BEHIND THE MIRROR BETWEEN MIND AND HEA          10             3:59    
+GIPSYLAND            VIVA LA MUSICA               VIVA LA MUSICA                1              3:55    
+GIPSYLAND            VIVA LA MUSICA               TORITO                        2              3:02    
+GIPSYLAND            VIVA LA MUSICA               ANA MARIA                     3              3:24    
+GIPSYLAND            VIVA LA MUSICA               LA BODEGA                     4              4:47    
+GIPSYLAND            VIVA LA MUSICA               LA QUIERO NO NO               5              3:32    
+GIPSYLAND            VIVA LA MUSICA               LA DROGA                      6              3:33    
+GIPSYLAND            VIVA LA MUSICA               ME SIENTO TRISTE              7              4:09    
+GIPSYLAND            VIVA LA MUSICA               CANTAME GITANO                8              3:22    
+GIPSYLAND            VIVA LA MUSICA               MAMA                          9              3:02    
+GIPSYLAND            VIVA LA MUSICA               ME VA ME VA                   10             4:07    
+GIPSYLAND            VIVA LA MUSICA               AMIGO DE VERDAD               11             3:48    
+GIPSYLAND            VIVA LA MUSICA               OLE OLE                       12             3:11    
+GREEN DAY            DOOKIE                       BURNOUT                       1              2:05    
+GREEN DAY            DOOKIE                       CHUMP                         3              2:53    
+GREEN DAY            DOOKIE                       HAVING A BLAST                2              2:43    
+GREEN DAY            DOOKIE                       LONGVIEW                      4              3:58    
+GREEN DAY            DOOKIE                       WELCOME TO PARADISE           5              3:44    
+GREEN DAY            DOOKIE                       PULLING TEETH                 6              2:30    
+GREEN DAY            DOOKIE                       BASKET CASE                   7              3:00    
+GREEN DAY            DOOKIE                       SHE                           8              2:14    
+GREEN DAY            DOOKIE                       SASSAFRAS ROOTS               9              2:37    
+GREEN DAY            DOOKIE                       WHEN I COME AROUND            10             2:57    
+GREEN DAY            DOOKIE                       COMING CLEAN                  11             1:34    
+HONEY FAMILY         HONEY FAMILY 1ST             INTRO                         1              1:48    
+HONEY FAMILY         HONEY FAMILY 1ST             RAP GYO 1ST                   2              4:50    
+HONEY FAMILY         HONEY FAMILY 1ST             BEING A DUSST                 3              3:54    
+HONEY FAMILY         HONEY FAMILY 1ST             DONT BE LEFT OUT              4              4:32    
+HONEY FAMILY         HONEY FAMILY 1ST             AFTER                         5              4:42    
+HONEY FAMILY         HONEY FAMILY 1ST             I WANT TO KNOW HER            6              4:20    
+HONEY FAMILY         HONEY FAMILY 1ST             MY WAY MENS STORY             7              4:13    
+BARRY WHITE          ALL TIME GREATEST HITS       LOVES THEME                   1              4:08    
+CARLOS SANTANA       SUPERNATURAL                 MARIA MARIA                   7              4:51    
+HONEY FAMILY         HONEY FAMILY 1ST             RAP GYO 2ND                   9              4:02    
+HONEY FAMILY         HONEY FAMILY 1ST             NEW TROLLS ANDANTE            10             5:03    
+JUVENILE             400 DEGREES                  INTRO                         1              0:54    
+JUVENILE             400 DEGREES                  HA                            2              4:32    
+HONEY FAMILY         HONEY FAMILY 1ST             JUMP JUMP                     8              4:42    
+JUVENILE             400 DEGREES                  GONE RIDE WITH ME             3              3:38    
+JUVENILE             400 DEGREES                  FLOSSIN SEASON                4              3:36    
+JUVENILE             400 DEGREES                  GHETTO CHILDREN               5              4:01    
+JUVENILE             400 DEGREES                  FOLLOW ME NOW                 6              3:52    
+JUVENILE             400 DEGREES                  CASH MONEY CONCERT            7              0:36    
+JUVENILE             400 DEGREES                  WELCOME TO THE NO             8              4:31    
+JUVENILE             400 DEGREES                  U.P.T.                        9              5:21    
+JUVENILE             400 DEGREES                  RUN FOR IT                    10             4:30    
+JUVENILE             400 DEGREES                  HA REMIX                      11             3:38    
+LAURIE ANDERSON      BRIGHT RED                   SPEECHLESS                    1              5:20    
+LAURIE ANDERSON      BRIGHT RED                   BRIGHT RED                    2              3:12    
+LAURIE ANDERSON      BRIGHT RED                   PUPPET MOTEL                  3              3:09    
+LAURIE ANDERSON      BRIGHT RED                   SPEAK MY LANGUAGE             4              3:38    
+LAURIE ANDERSON      BRIGHT RED                   WORLD WITHOUT END             5              2:47    
+LAURIE ANDERSON      BRIGHT RED                   FREEFALL                      6              4:32    
+LAURIE ANDERSON      BRIGHT RED                   MUDDY RIVER                   7              3:02    
+LAURIE ANDERSON      BRIGHT RED                   BEAUTIFUL PEA GREEN           8              4:20    
+LAURIE ANDERSON      BRIGHT RED                   POISON                        9              3:47    
+LAURIE ANDERSON      BRIGHT RED                   IN OUR SLEEP                  10             2:19    
+LED ZEPPELIN         LED ZEPPELIN 4               BLACK DOG                     1              4:57    
+LED ZEPPELIN         LED ZEPPELIN 4               ROCK AND ROLL                 2              3:40    
+LED ZEPPELIN         LED ZEPPELIN 4               BATTLE OF EVERMORE            3              5:52    
+LED ZEPPELIN         LED ZEPPELIN 4               STAIRWAY TO HEAVEN            4              8:03    
+LED ZEPPELIN         LED ZEPPELIN 4               MISTY MOUNTAIN TOP            5              4:38    
+LED ZEPPELIN         LED ZEPPELIN 4               FOUR STICKS                   6              4:48    
+LED ZEPPELIN         LED ZEPPELIN 4               GOING TO CALIFORNIA           7              3:31    
+LED ZEPPELIN         LED ZEPPELIN 4               WHEN THE LEVEL BREA           8              7:08    
+LINKIN PARK          HYBRID THEORY                PAPERCUT                      1              3:05    
+LINKIN PARK          HYBRID THEORY                ONE STEP CLOSER               2              2:36    
+LINKIN PARK          HYBRID THEORY                WITH YOU                      3              3:23    
+LINKIN PARK          HYBRID THEORY                POINTS OF AUTHORITY           4              3:20    
+LINKIN PARK          HYBRID THEORY                CRAWLING                      5              3:29    
+LINKIN PARK          HYBRID THEORY                RUNAWAY                       6              3:04    
+LINKIN PARK          HYBRID THEORY                BY MYSELF                     7              3:10    
+LINKIN PARK          HYBRID THEORY                IN THE END                    8              3:36    
+MANA                 CUANDO LOS ANGELES LLORAN    COMO UN PERRO ENLOQU          1              3:12    
+MANA                 CUANDO LOS ANGELES LLORAN    SELVA NEGRA                   2              4:23    
+MANA                 CUANDO LOS ANGELES LLORAN    RINCON                        3              3:50    
+MANA                 CUANDO LOS ANGELES LLORAN    EL RELOJ CUCU                 4              4:35    
+MANA                 CUANDO LOS ANGELES LLORAN    MIS OJOS                      5              5:03    
+MANA                 CUANDO LOS ANGELES LLORAN    ANA                           6              4:03    
+MANA                 CUANDO LOS ANGELES LLORAN    SIEMBRA EL AMOR               7              3:25    
+MANA                 CUANDO LOS ANGELES LLORAN    CUENDO LOS ANGELES L          8              4:50    
+MANA                 CUANDO LOS ANGELES LLORAN    DEJAME ENTRAR                 9              4:15    
+MANA                 CUANDO LOS ANGELES LLORAN    NO HA PARADO DE LLOV          10             5:10    
+NELLY                GOING DOWN                   GOING DOWN                    1              4:32    
+NELLY                GOING DOWN                   EL                            2              5:03    
+PHISH                A MOVIE OF NECTAR            ELIZA I                       1              1:56    
+PHISH                A MOVIE OF NECTAR            ELIZA II                      2              2:43    
+PHISH                A MOVIE OF NECTAR            ELIZA III                     3              3:31    
+PHISH                A PICTURE OF NECTAR          LLAMA                         1              3:31    
+PHISH                A PICTURE OF NECTAR          ELIZA                         2              1:31    
+PHISH                A PICTURE OF NECTAR          CAVERN                        3              4:24    
+PHISH                A PICTURE OF NECTAR          POOR HEART                    4              2:45    
+PHISH                A PICTURE OF NECTAR          STASH                         5              7:11    
+PHISH                A PICTURE OF NECTAR          MANTECA                       6              0:29    
+PHISH                A PICTURE OF NECTAR          GUELA PAPYRUS                 7              5:52    
+PHISH                A PICTURE OF NECTAR          MAGILLA                       8              2:46    
+PHISH                A PICTURE OF NECTAR          THE LANDLADY                  9              2:56    
+PHISH                A PICTURE OF NECTAR          GLIDE                         10             4:12    
+SCOOTER              HOW MUCH IS THE FISH         HOW MUCH IS FISH              1              3:45    
+SCOOTER              HOW MUCH IS THE FISH         HOW MUCH IS FISH EX           2              5:23    
+SCOOTER              HOW MUCH IS THE FISH         HOW MUCH IS FISH CL           3              6:11    
+SCOOTER              HOW MUCH IS THE FISH         SPUTNIK                       4              3:06    
+SNOOP DOGG           THA LAST MEAL                INTRO                         1              1:20    
+SNOOP DOGG           THA LAST MEAL                HENNESEY AND BUDDAH           2              4:12    
+SNOOP DOGG           THA LAST MEAL                SNOOP DOGG                    3              4:03    
+SNOOP DOGG           THA LAST MEAL                TRUE LIES                     4              4:01    
+SNOOP DOGG           THA LAST MEAL                WRONG IDEA                    5              4:14    
+SNOOP DOGG           THA LAST MEAL                GO AWAY                       6              4:52    
+SNOOP DOGG           THA LAST MEAL                SET IT OFF                    7              4:52    
+SNOOP DOGG           THA LAST MEAL                STACEY ADAMS                  8              4:35    
+SNOOP DOGG           THA LAST MEAL                LAY LOW                       9              3:43    
+SNOOP DOGG           THA LAST MEAL                GAME COURT                    11             2:07    
+SNOOP DOGG           THA LAST MEAL                BRING IT ON                   10             4:17    
+SUBLIME              SUBLIME                      GARDEN GROVE                  1              4:21    
+SNOOP DOGG           THA LAST MEAL                ISSUES                        12             2:36    
+SUBLIME              SUBLIME                      WHAT I GOT                    2              2:51    
+SUBLIME              SUBLIME                      WRONG WAY                     3              2:16    
+SUBLIME              SUBLIME                      SAME IN THE END               4              2:37    
+SUBLIME              SUBLIME                      APRIL 29 1992                 5              3:53    
+SUBLIME              SUBLIME                      SANTERIA                      6              3:03    
+SUBLIME              SUBLIME                      SEED                          7              2:10    
+SUBLIME              SUBLIME                      PAWN SHOP                     9              6:06    
+SUBLIME              SUBLIME                      JAILHOUSE                     8              4:53    
+SUBLIME              SUBLIME                      PADDLE OUT                    10             1:15    
+THERION              DEGGIAL                      SEVEN SECRETS OF THE          1              3:36    
+THERION              DEGGIAL                      ETERNAL RETURN                2              7:10    
+THERION              DEGGIAL                      ENTER VRIL YA                 3              6:38    
+THERION              DEGGIAL                      SHIP OF LUNA                  4              6:28    
+THERION              DEGGIAL                      THE INVINCIBLE                5              5:09    
+THERION              DEGGIAL                      DEGGIAL                       6              5:03    
+THERION              DEGGIAL                      EMERALD CROWN                 7              5:29    
+THERION              DEGGIAL                      FLIGHT OF THE LORD O          8              1:22    
+THERION              DEGGIAL                      FLESH OF THE GODS             9              4:06    
+THERION              DEGGIAL                      VIA NOCTURNA (I II)           10             9:33    
+THERION              DEGGIAL                      O FORTUNA                     11             3:26    
+
+Here are the artist in the collection:
+ 2 PAC
+ ALICE IN CHAINS
+ BARRY WHITE
+ BERLIN
+ CARLOS SANTANA
+ CELINE DION
+ COUNTING CROWS
+ ENIGMA
+ GIPSYLAND
+ GREEN DAY
+ HONEY FAMILY
+ JUVENILE
+ LAURIE ANDERSON
+ LED ZEPPELIN
+ LINKIN PARK
+ MANA
+ NELLY
+ PHISH
+ SCOOTER
+ SNOOP DOGG
+ SUBLIME
+ THERION
